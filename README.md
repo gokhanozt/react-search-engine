@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+In this project used free Google Search API( https://rapidapi.com/herosAPI/api/google-search74/) and it is limited for 100 fetch/month.
 Screenshot:
 ![Screenshot](https://github.com/gokhanozt/react-search-engine/blob/main/public/ss1.png?raw=true)
 
